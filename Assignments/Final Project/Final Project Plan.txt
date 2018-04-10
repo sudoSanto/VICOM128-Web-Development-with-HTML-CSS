@@ -1,0 +1,21 @@
+Matthew Dal Santo
+VICOM128-800
+Final Project Project Plan/Description
+Who is the website for (topic, client and visitors) and define the goals of the web site
+
+This website will be a showcase of my ITDEV110 final project as a portfolio accompaniment.  
+It will display the main site in a fashion that mimics the outlay of the game’s main menu, 
+using hover CSS to simulate cursor selection.
+
+There will be five pages in total(main will have two pages).  The main menu will have a 
+link to a Youtube video explaining the game.  Also, links to a description page about the 
+game, a description page about the author and a contact page.  There will be a standard 
+header with links for easy site navigation and continuity as well.  These links will be all 
+the same links included on the main page sans the Youtube link.  The About the Author page 
+will also include a gitHub link to the game’s code.
+
+Visitors of the site will be any prospective employers or anyone interested in the game 
+and/or the C# code it was made in.
+
+The site will maintain 8-bit-esque graphics that mimic the console ASCII graphics the game 
+was made in.  This will keep it playful, yet pertinent to the game.

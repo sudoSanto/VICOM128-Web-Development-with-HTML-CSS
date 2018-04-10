@@ -1,0 +1,99 @@
+body { font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 100%;
+    color: black;
+    background-color: white; }
+
+a { font-weight: bold;
+    text-decoration: none; }
+
+a:link { color: blue;
+    text-decoration: none; }
+
+a:visited { color: purple; 
+    text-decoration: none; }
+
+a:hover, a:focus { color: red;
+    text-decoration: none; }
+
+ul { }
+
+h1 { }
+
+p { }
+
+header, nav, main, section, article, aside, footer { background-color: whitesmoke; }
+
+footer img { margin: auto;
+    display: block; }
+
+table { border: 1px solid black;
+    border-collapse: collapse;
+    margin-left: 2em;
+    margin-top: 2em; }
+
+th, td { border: 1px solid plack;
+    border-collapse: collapse;
+    padding: .2em .7em;
+    text-align: right; }
+
+th.left, td.left { text-align: left; }
+
+tbody, tbody th, tbody td { border: 1px solid black; }
+
+thead, tfoot, thead th, tfoot th, thead td, tfoot td { background-color: orange;
+    border: 1px solid black; }
+
+tfoot { font-weight: bold; }
+
+thead th:first-child { vertical-align: bottom; }
+
+thead th:nth-child(2) { text-align: center; }
+
+th:nth-child(2) { text-align: left; }
+
+th:nth-child(3) { text-align: left; }
+
+th:nth-child(4) { text-align: left; }
+
+fieldset { margin-top: 1em;
+    margin-left: 1em;
+    margin-bottom: 1em;
+    padding-top: .5em; }
+
+legend { color: lawngreen;
+    font-weight: bold;
+    font-size: 85%;
+    margin-bottom: .5em; }
+
+label, input, textarea, select { font-size: 90% }
+
+label { float: left;
+    width: 12em;
+    text-align: right; }
+
+input, select { width: 15em;
+    margin-left: .5em; 
+    margin-bottom: .5em; }
+
+textarea { width 15em;
+    height 15em;
+    margin-left: .5em; 
+    margin-bottom: .5em;}
+
+input[type="radio"], input[type="checkbox"] {width: 2em;
+    margin-left: .5em; 
+    margin-bottom: .5em;}
+
+input:required, input[required], textarea:required, textarea[required] { border: 3px solid red; }
+
+input:valid, textarea:valid { border: 1px solid black; }
+
+input:invalid textarea:invalid { box-shadow: none; }
+
+br { clear: both; }
+
+#buttons input { width: 10em; }
+
+.wrapper{ text-align: center; }
+
+.clear { clear: both; }

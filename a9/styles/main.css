@@ -1,0 +1,169 @@
+body { font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 100%;
+    color: black;
+    background-color: white;
+    position: relative;
+    width: 100%; }
+
+a { font-weight: bold;
+    text-decoration: none; }
+
+a:link { color: blue;
+    text-decoration: none; }
+
+a:visited { color: purple; 
+    text-decoration: none; }
+
+a:hover, a:focus { color: red;
+    text-decoration: none; }
+
+section, article, aside, h1, h2, h3, p { margin: 0;
+    padding: 0; }
+
+section, article, aside { margin-bottom: 1em; }
+
+p { font-size: .875em; }
+
+header { width: 100%; }
+
+header h2 { font-size: 2.25em; 
+    margin-left: 12.12121%; }
+
+header h3 { font-size: 1.25em;
+    font-style: italic;
+    margin-left: 12.12121%; }
+
+header img { width: 8.0808%;
+    max-width: 80px;
+    min-width: 40px;
+    float: left;
+    margin-left: 2.0202%; }
+
+#menu ul { width: 100%; 
+    list-style-type: none;
+    position: relative; }
+
+#menu ul li { width: 20%;
+    float: left; }
+
+#menu ul ul { display: none;
+    position: absolute;
+    top: 100%; }
+
+#menu ul ul li { float: none;
+    position: relative; }
+
+#menu ul ul li ul { position: absolute;
+    left: 100%;
+    top: 0; }
+
+#menu ul li.lastitem ul li ul {
+    position: absolute;
+    left: -100%;
+    top: 0; }
+
+#menu ul li:hover > ul { display: block; }
+
+#menu > ul::after { content: "";
+    clear: both;
+    display: block; }
+
+#menu ul { margin: 0;
+    padding: 0; }
+
+#menu ul li a { text-align: center;
+    display: block;
+    width: 100%;
+    padding: 1em 0;
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    font-weight: bold; }
+
+#menu ul li.lastitem a { width: 100%; }
+
+#menu ul li a.current { color: yellow; }
+
+#menu ul li a:hover, #menu ul li a:focus { background-color: gray; }
+
+#menu ul li:hover ul { width: 100%; }
+
+#menu ul li:hover ul li:hover ul li { width: 100%; }
+
+article { width: 54.0404%;
+    float: left;
+    margin-left: 2.0202%; 
+    padding: 1.5em 2.52525% 0 0; }
+
+article h1 { font-size: 1.625em; }
+
+article img { max-width: 100%; }
+
+aside { width: 35.35353%;
+    float: right;
+    padding: 2.0202%;
+    background-color: red;
+    margin: 1.5em 2.0202% 0 0; }
+
+aside h2 { font-size: 1.25em; }
+
+aside h3 { font-size: 1em; }
+
+aside li { font-size: .875em; }
+
+footer { width: 100%; }
+
+footer p { font-size: .75em;
+    text-align: right; 
+    margin-right: 2.0202%; }
+
+#mobile_menu { display: none; }
+
+@media only screen and (max-width: 959px) {
+    #menu ul li a { font-size: .875em; }
+    section h1, article h1 { font-size: 1.5em; }
+    section h2, aside h2 { font-size: 1.125em; }
+}
+
+@media only screen and (max-width: 767px) {
+    #menu { display: none; }
+    #mobile_menu { display: block; }
+    .slicknav_menu { background-color: red !important; }
+    body { width: 100%;
+        margin: 0;
+        border: none; }
+    header, footer p { text-align: center; }
+    footer p { margin-right: 0; }
+    header h2 { font-size: 1.625em;
+        margin: .4em 0 .25em 0; }
+    header h3 { font-size 1em;
+        margin-left: 0; }
+    header img { float: none; }
+    article { width: 95.9596%;
+        float: none;
+        margin-right: 2.0202%;
+        padding-right: 0; }
+    article img { float: left;
+        width: 50%;
+        margin-right: 2%; }
+    aside { width: 91.9192%; 
+        float: none;
+        margin: 0 2.0202% 2.0202% 2.0202%; }
+}
+
+@media only screen and (max-width: 479px) {
+    header h2 { font-size : 1.375em; }
+    header h3 { font-size: .8125em; }
+    p { font-size: .875em; }
+    article h1, aside h2 { font-size: 1em; }
+    aside li { font-size: .875em; }
+    article img { float: none;
+        width: 100%;
+        margin-right: 0; }
+    aside h3 { font-size: .9375em; }
+    footer p { font-size: .6875em; }
+}
+
+.wrapper{ text-align: center; }
+
+.clear { clear: both; }
