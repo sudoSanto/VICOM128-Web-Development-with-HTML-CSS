@@ -49,7 +49,7 @@ Assignments
 
 [<img src="https://github.com/favicon.ico" alt="Final" width="18" height="18">](https://htmlpreview.github.io/?https://github.com/sudoSanto/VICOM128-Web-Development-with-HTML-CSS/blob/master/final/index.html "Final")&nbsp;
 **Final**\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Final Project*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Final Project - Portfolio Page for ITDEV110 Final, C#alaga*
 
 <br/>
 
