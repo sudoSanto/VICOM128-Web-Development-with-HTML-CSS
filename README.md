@@ -7,7 +7,7 @@ Students develop the HTML and CSS skills needed to develop functional Web sites.
 Assignments
 ------
 
-[<img src="https://github.com/favicon.ico" alt="Assignment 1" width="18" height="18">](https://htmlpreview.github.io/?https://github.com/sudoSanto/VICOM128-Web-Development-with-HTML-CSS/blob/master/a1/index.html "Assignment 1")&nbsp;
+[<img src="https://github.com/sudoSanto/sudoSantoMedia/blob/master/HTMLIcon.png" alt="Assignment 1" width="18" height="18">](https://htmlpreview.github.io/?https://github.com/sudoSanto/VICOM128-Web-Development-with-HTML-CSS/blob/master/a1/index.html "Assignment 1")&nbsp;
 **Assignment 1**\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*IDE Installation, Basic HTML*
 
