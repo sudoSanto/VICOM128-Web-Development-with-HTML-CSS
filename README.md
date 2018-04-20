@@ -12,43 +12,53 @@ Assignments
 **Assignment 1**\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*IDE Installation, Basic HTML*
 
-[<img src="https://github.com/favicon.ico" alt="Assignment 2" width="18" height="18">](https://htmlpreview.github.io/?https://github.com/sudoSanto/VICOM128-Web-Development-with-HTML-CSS/blob/master/a2/index.html "Assignment 2")&nbsp;
+[<img src="https://github.com/sudoSanto/sudoSantoMedia/blob/master/HTMLIcon.png" alt="Assignment 2" width="30" height="30">](https://htmlpreview.github.io/?https://github.com/sudoSanto/VICOM128-Web-Development-with-HTML-CSS/blob/master/a2/index.html "Assignment 2")&nbsp;
+[<img src="https://github.com/favicon.ico" alt="Assignment 2" width="18" height="18">](https://github.com/sudoSanto/VICOM128-Web-Development-with-HTML-CSS/tree/master/a2 "Assignment 2")&nbsp;
 **Assignment 2**\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Basic HTML (Cont'd)*
 
-[<img src="https://github.com/favicon.ico" alt="Assignment 3" width="18" height="18">](https://htmlpreview.github.io/?https://github.com/sudoSanto/VICOM128-Web-Development-with-HTML-CSS/blob/master/a3/index.html "Assignment 3")&nbsp;
+[<img src="https://github.com/sudoSanto/sudoSantoMedia/blob/master/HTMLIcon.png" alt="Assignment 3" width="30" height="30">](https://htmlpreview.github.io/?https://github.com/sudoSanto/VICOM128-Web-Development-with-HTML-CSS/blob/master/a3/index.html "Assignment 3")&nbsp;
+[<img src="https://github.com/favicon.ico" alt="Assignment 3" width="18" height="18">](https://github.com/sudoSanto/VICOM128-Web-Development-with-HTML-CSS/tree/master/a3 "Assignment 3")&nbsp;
 **Assignment 3**\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*HTML Images*
 
-[<img src="https://github.com/favicon.ico" alt="Assignment 4" width="18" height="18">](https://htmlpreview.github.io/?https://github.com/sudoSanto/VICOM128-Web-Development-with-HTML-CSS/blob/master/a4/index.html "Assignment 4")&nbsp;
+[<img src="https://github.com/sudoSanto/sudoSantoMedia/blob/master/HTMLIcon.png" alt="Assignment 4" width="30" height="30">](https://htmlpreview.github.io/?https://github.com/sudoSanto/VICOM128-Web-Development-with-HTML-CSS/blob/master/a4/index.html "Assignment 4")&nbsp;
+[<img src="https://github.com/favicon.ico" alt="Assignment 4" width="18" height="18">](https://github.com/sudoSanto/VICOM128-Web-Development-with-HTML-CSS/tree/master/a4 "Assignment 4")&nbsp;
 **Assignment 4**\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Basic CSS*
 
-[<img src="https://github.com/favicon.ico" alt="Assignment 5" width="18" height="18">](https://htmlpreview.github.io/?https://github.com/sudoSanto/VICOM128-Web-Development-with-HTML-CSS/blob/master/a5/index.html "Assignment 5")&nbsp;
+[<img src="https://github.com/sudoSanto/sudoSantoMedia/blob/master/HTMLIcon.png" alt="Assignment 5" width="30" height="30">](https://htmlpreview.github.io/?https://github.com/sudoSanto/VICOM128-Web-Development-with-HTML-CSS/blob/master/a5/index.html "Assignment 5")&nbsp;
+[<img src="https://github.com/favicon.ico" alt="Assignment 5" width="18" height="18">](https://github.com/sudoSanto/VICOM128-Web-Development-with-HTML-CSS/tree/master/a5 "Assignment 5")&nbsp;
 **Assignment 5**\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Making a basic multi-page website that utilizes CSS.*
 
-[<img src="https://github.com/favicon.ico" alt="Assignment 6" width="18" height="18">](https://htmlpreview.github.io/?https://github.com/sudoSanto/VICOM128-Web-Development-with-HTML-CSS/blob/master/a6/index.html "Assignment 6")&nbsp;
+[<img src="https://github.com/sudoSanto/sudoSantoMedia/blob/master/HTMLIcon.png" alt="Assignment 6" width="30" height="30">](https://htmlpreview.github.io/?https://github.com/sudoSanto/VICOM128-Web-Development-with-HTML-CSS/blob/master/a6/index.html "Assignment 6")&nbsp;
+[<img src="https://github.com/favicon.ico" alt="Assignment 6" width="18" height="18">](https://github.com/sudoSanto/VICOM128-Web-Development-with-HTML-CSS/tree/master/a6 "Assignment 6")&nbsp;
 **Assignment 6**\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Multiple Columns & Multiple CSS Files*
 
-[<img src="https://github.com/favicon.ico" alt="Assignment 7" width="18" height="18">](https://htmlpreview.github.io/?https://github.com/sudoSanto/VICOM128-Web-Development-with-HTML-CSS/blob/master/a7/index.html "Assignment 7")&nbsp;
+[<img src="https://github.com/sudoSanto/sudoSantoMedia/blob/master/HTMLIcon.png" alt="Assignment 7" width="30" height="30">](https://htmlpreview.github.io/?https://github.com/sudoSanto/VICOM128-Web-Development-with-HTML-CSS/blob/master/a7/index.html "Assignment 7")&nbsp;
+[<img src="https://github.com/favicon.ico" alt="Assignment 7" width="18" height="18">](https://github.com/sudoSanto/VICOM128-Web-Development-with-HTML-CSS/tree/master/a7 "Assignment 7")&nbsp;
 **Assignment 7**\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Midterm Assignment - Paul Piper's Pickled Peppers*
 
-[<img src="https://github.com/favicon.ico" alt="Assignment 8" width="18" height="18">](https://htmlpreview.github.io/?https://github.com/sudoSanto/VICOM128-Web-Development-with-HTML-CSS/blob/master/a8/index.html "Assignment 8")&nbsp;
+[<img src="https://github.com/sudoSanto/sudoSantoMedia/blob/master/HTMLIcon.png" alt="Assignment 8" width="30" height="30">](https://htmlpreview.github.io/?https://github.com/sudoSanto/VICOM128-Web-Development-with-HTML-CSS/blob/master/a8/index.html "Assignment 8")&nbsp;
+[<img src="https://github.com/favicon.ico" alt="Assignment 8" width="18" height="18">](https://github.com/sudoSanto/VICOM128-Web-Development-with-HTML-CSS/tree/master/a8 "Assignment 8")&nbsp;
 **Assignment 8**\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Tables & Menus*
 
-[<img src="https://github.com/favicon.ico" alt="Assignment 9" width="18" height="18">](https://htmlpreview.github.io/?https://github.com/sudoSanto/VICOM128-Web-Development-with-HTML-CSS/blob/master/a9/index.html "Assignment 9")&nbsp;
+[<img src="https://github.com/sudoSanto/sudoSantoMedia/blob/master/HTMLIcon.png" alt="Assignment 9" width="30" height="30">](https://htmlpreview.github.io/?https://github.com/sudoSanto/VICOM128-Web-Development-with-HTML-CSS/blob/master/a9/index.html "Assignment 9")&nbsp;
+[<img src="https://github.com/favicon.ico" alt="Assignment 9" width="18" height="18">](https://github.com/sudoSanto/VICOM128-Web-Development-with-HTML-CSS/tree/master/a9 "Assignment 9")&nbsp;
 **Assignment 9**\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Responsive Design & Media Queries*
 
-[<img src="https://github.com/favicon.ico" alt="Assignment 10" width="18" height="18">](https://htmlpreview.github.io/?https://github.com/sudoSanto/VICOM128-Web-Development-with-HTML-CSS/blob/master/a10/index.html "Assignment 10")&nbsp;
+[<img src="https://github.com/sudoSanto/sudoSantoMedia/blob/master/HTMLIcon.png" alt="Assignment 10" width="30" height="30">](https://htmlpreview.github.io/?https://github.com/sudoSanto/VICOM128-Web-Development-with-HTML-CSS/blob/master/a10/index.html "Assignment 10")&nbsp;
+[<img src="https://github.com/favicon.ico" alt="Assignment 10" width="18" height="18">](https://github.com/sudoSanto/VICOM128-Web-Development-with-HTML-CSS/tree/master/a10 "Assignment 10")&nbsp;
 **Assignment 10**\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Forms*
 
-[<img src="https://github.com/favicon.ico" alt="Final" width="18" height="18">](https://htmlpreview.github.io/?https://github.com/sudoSanto/VICOM128-Web-Development-with-HTML-CSS/blob/master/final/index.html "Final")&nbsp;
+[<img src="https://github.com/sudoSanto/sudoSantoMedia/blob/master/HTMLIcon.png" alt="Final" width="30" height="30">](https://htmlpreview.github.io/?https://github.com/sudoSanto/VICOM128-Web-Development-with-HTML-CSS/blob/master/final/index.html "Final")&nbsp;
+[<img src="https://github.com/favicon.ico" alt="Final" width="18" height="18">](https://github.com/sudoSanto/VICOM128-Web-Development-with-HTML-CSS/tree/master/final "Final")&nbsp;
 **Final**\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Final Project - Portfolio Page for ITDEV110 Final, C#alaga*
 
